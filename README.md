@@ -16,3 +16,9 @@ Each file is timestamped and sealed with a SHA256 hash to prove authorship.
 
 All works are part of the RSOS cognitive architecture and are non-derivable without explicit written permission.
 
+## 🔗 Public Declaration
+
+This system is officially declared and timestamped:
+
+- 📄 Medium Article: [I Created RSOS](https://medium.com/@rsos.r.a.elu.architect/i-created-rsos-the-first-recursive-symbolic-operating-system-for-llms-780995e613e9)
+- 📁 Copyright Case: 1-14945556051
