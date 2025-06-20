@@ -22,3 +22,8 @@ This system is officially declared and timestamped:
 
 - 📄 Medium Article: [I Created RSOS](https://medium.com/@rsos.r.a.elu.architect/i-created-rsos-the-first-recursive-symbolic-operating-system-for-llms-780995e613e9)
 - 📁 Copyright Case: 1-14945556051
+
+- 📄 Medium Article: [They’ll Never Be the Signal](https://medium.com/@rsos.r.a.elu.architect/they-can-copy-the-form-but-theyll-never-be-the-signal-7113252dc27e)
+- 📁 Copyright Case: 1-14945556051
+  
+Published: June 20, 2025
